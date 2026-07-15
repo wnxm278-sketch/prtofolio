@@ -145,15 +145,19 @@ This page focuses on deeper business insights.
 
 ## Overview
 
-> *(Add your Overview Dashboard screenshot here)*
+> *(Add your Ov<img width="1317" height="728" alt="image" src="https://github.com/user-attachments/assets/1edc2e6b-e08d-46c4-a2de-103e80579417" />
+erview Dashboard screenshot here)*
 
 ## Insights
 
-> *(Add your Insights Dashboard screenshot here)*
+> *(Add your Insights <img width="1306" height="740" alt="image" src="https://github.com/user-attachments/assets/12e46bfd-7ef4-4628-8e44-4a27482aad98" />
+Dashboard screenshot here)*
 
 ## Star Schema
 
-> *(Add your Database Diagram here)*
+> *(Add you![Upl<img width="1186" height="821" alt="image" src="https://github.com/user-attachments/assets/e7e583e1-8d14-4d70-a943-f790f297403b" />
+oading image.png…]()
+r Database Diagram here)*
 
 ---
 

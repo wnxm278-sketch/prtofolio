@@ -155,9 +155,10 @@ Dashboard screenshot here)*
 
 ## Star Schema
 
-> *(Add you![Upl<img width="1186" height="821" alt="image" src="https://github.com/user-attachments/assets/e7e583e1-8d14-4d70-a943-f790f297403b" />
+> *(Add you![Upl<img
 oading image.png…]()
-r Database Diagram here)*
+r Database Dia<img width="1186" height="821" alt="image" src="https://github.com/user-attachments/assets/513ed1cb-d84f-4155-a4c6-f671f726130c" />
+gram here)*
 
 ---
 

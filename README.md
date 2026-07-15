@@ -145,8 +145,8 @@ This page focuses on deeper business insights.
 
 ## Overview
 
-> *(Add your Ov<img width="1317" height="728" alt="image" src="https://github.com/user-attachments/assets/1edc2e6b-e08d-46c4-a2de-103e80579417" />
-erview Dashboard screenshot here)*
+erview Dashboard screens<img width="1335" height="748" alt="Overview" src="https://github.com/user-attachments/assets/ad40699d-dcb0-47ce-a913-e81f6c2e319d" />
+hot here)*
 
 ## Insights
 
